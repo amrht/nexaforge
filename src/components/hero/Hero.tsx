@@ -86,8 +86,8 @@ export default function Hero() {
         trigger: section,
         start: "top top",
         end: "bottom top",
-        pin: true,
-        pinSpacing: true,
+        // pin: true,
+        // pinSpacing: true,
         anticipatePin: 1,
       });
     }, section);
