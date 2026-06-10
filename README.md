@@ -2,7 +2,7 @@
 
 A premium B2B enterprise AI and IT services marketing website — built as a full-stack developer assignment with Next.js 16, Three.js, GSAP, and Sanity.io.
 
-**Live demo:** [nexaforge.vercel.app](https://nexaforge.vercel.app) *(replace with your Vercel URL)*
+**Live demo:** [nexaforge-fawn.vercel.app](https://nexaforge-fawn.vercel.app/)
 
 ---
 
